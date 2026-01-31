@@ -1,4 +1,33 @@
-## Hi there 👋
+# Hi, I'm Bhagyashree Sethiya 👋
+
+🎓 B.Tech CSE (AI & ML) @ VIT Bhopal University
+
+
+
+## 🚀 About Me
+- Computer Science undergraduate with interest in **backend systems and full-stack development**
+- Hands-on experience with **FastAPI, SQLAlchemy, React**
+- Actively improving **problem-solving skills** using DSA platforms
+- Looking to contribute to **technical club projects and collaborative learning**
+
+
+## 🛠️ Technical Skills
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** FastAPI
+- **Database:** SQLAlchemy
+- **Cloud:** Choreo
+- **Core Areas:** REST APIs, Full-Stack Development
+
+
+## 💻 Coding Profiles
+- **LeetCode:** https://leetcode.com/Bhagyashree_Sethiya
+- **GeeksforGeeks:** https://auth.geeksforgeeks.org/user/bhagyashree994e
+
+---
+
+## 🔗 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/bhagyashree-sethiya-27bbb4333
+- **GitHub:** https://github.com/BhagyashreeSethiya
 
 <!--
 **BhagyashreeSethiya/BhagyashreeSethiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
