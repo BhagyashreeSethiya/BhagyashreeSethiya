@@ -8,7 +8,7 @@
 - Computer Science undergraduate with interest in **backend systems and full-stack development**
 - Hands-on experience with **FastAPI, SQLAlchemy, React**
 - Actively improving **problem-solving skills** using DSA platforms
-- Looking to contribute to **technical club projects and collaborative learning**
+- Looking to contribute to **technical projects and collaborative learning**
 
 
 ## 🛠️ Technical Skills
