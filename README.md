@@ -14,9 +14,9 @@
 ## 🛠️ Technical Skills
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** FastAPI
-- **Database:** SQLAlchemy, PostgreSQL(Neon)
-- **Cloud:** Choreo, Vercel
-- **Core Areas:** REST APIs, Full-Stack Development, Redis
+- **Database and ORM:** SQLAlchemy, PostgreSQL(Neon)
+- **Cloud and Caching:** Redis, Choreo, Vercel
+- **Core Concepts:** REST APIs, Full-Stack Development
 
 
 ## 💻 Coding Profiles
